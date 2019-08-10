@@ -1,0 +1,9 @@
+C:\Users\Aret\Projects\translatorapp.DomainLayer\bin\Debug\netstandard2.0\translatorapp.DomainLayer.deps.json
+C:\Users\Aret\Projects\translatorapp.DomainLayer\bin\Debug\netstandard2.0\translatorapp.DomainLayer.dll
+C:\Users\Aret\Projects\translatorapp.DomainLayer\bin\Debug\netstandard2.0\translatorapp.DomainLayer.pdb
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.csprojAssemblyReference.cache
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.AssemblyInfo.cs
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.dll
+C:\Users\Aret\Projects\translatorapp.DomainLayer\obj\Debug\netstandard2.0\translatorapp.DomainLayer.pdb
