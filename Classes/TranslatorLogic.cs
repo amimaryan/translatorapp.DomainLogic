@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using translatorapp.DomainLayer.Interfaces;
 
-namespace translatorapp.DomainLayer
+namespace translatorapp.DomainLayer.Classes
 {
-    public class TranslatorLogic
+    public class TranslatorLogic : ITranslatorLogic
     {
         public List<LanguageModel> GetLanguages()
         {
